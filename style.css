@@ -1,1 +1,51 @@
-loikpojimlkj
+header
+{
+	height: 10%;
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+	color: black;
+
+}
+html, body
+{
+	height: 100%;
+
+}
+
+nav a {
+  padding:10px;
+}
+a {
+  text-decoration: none;
+}
+
+.appli
+{
+	height: 14px;
+	width: 14px;
+}
+
+
+
+footer
+{
+	height: 10%;
+	border-top: solid, 2px, black;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;	
+}
+a
+{
+	color: gray
+}
+
+.container 
+{
+	height: 80%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
