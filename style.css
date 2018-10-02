@@ -57,7 +57,7 @@ footer
 {
 
 
-
+background-color: #f4f4f4
 
 
 }
@@ -83,4 +83,10 @@ text
 width: 600px;
 
 
+}
+
+aside
+{color: gray;
+
+margin-left: 10px;
 }
